@@ -1,4 +1,4 @@
-<h1 align="center">Klk mundo<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+<h1 align="center">Klk mundo<img src="http://hijodeperra.com/" width="30"> </h1>
 
 ### Aún no estoy estudiando, pero en aproximadamente dos meses entraré al Instituto Tecnológico de Las Américas, donde estudiaré Ingeniería en Sistemas. Como sea, aquí subiré los proyectos que haga y también las tecnologías que aprenda. Tengo que aprender mucho, porque está lleno de personas competentes y, obviamente, tengo que destacarme.
 
