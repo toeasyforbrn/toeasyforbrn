@@ -8,7 +8,7 @@
 
 # 💻 Tecnologias que se:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 <br>
 
 <Br>
