@@ -1,37 +1,76 @@
-<h1 align="center" width="30">Klk Mundo </h1>
+<h1 align="center">Klk Mundo 👋, soy Bryan González</h1>
 
-### Aún no estoy estudiando, pero en aproximadamente dos meses entraré al Instituto Tecnológico de Las Américas, donde estudiaré Ingeniería en Sistemas. Como sea, aquí subiré los proyectos que haga y también las tecnologías que aprenda. Tengo que aprender mucho, porque está lleno de personas competentes y, obviamente, tengo que destacarme.
+<h3 align="center">Estudiante de Desarrollo de Software en el ITLA · Desarrollador web · Fundador de <a href="https://tunegocioweb.fyi">Somos Tu Negocio Web</a></h3>
 
-### Ete' e mi primer read me(mi segundo pq se me borro y lo estoy haciendo de nuevo y toy quillao pq lo habia terminado y de to'), este lo ire actualizando a medida que vaya aprendiendo nuevas tecnologias.
-### y me pueden llamar bryan.
+<p align="center">📍 Santo Domingo, República Dominicana 🇩🇴</p>
 
-
-# 💻 Tecnologias que se:
-
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
-<br>
-
-<Br>
-<h1 align="left">📬Mis redes sociales</h1>
-<Br>
-<!--icons and links-->
-<p align="">
-<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://x.com/bryanlowkey_" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://discordapp.com/users/brynnlvsu" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-
-<br>
-
-# 🌱 Github 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=toeasyforbrn&show_icons=true&theme=tokyonight)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toeasyforbrn&layout=compact&theme=tokyonight)
-
-
+<p align="center">
+  <a href="mailto:bryanlowky@gmail.com"><img src="https://img.shields.io/badge/Email-2448F5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://tunegocioweb.fyi"><img src="https://img.shields.io/badge/tunegocioweb.fyi-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=DAFF59" /></a>
+  <a href="https://instagram.com/somostunegocioweb"><img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=DAFF59" /></a>
+  <a href="https://tiktok.com/@tu_negocioweb"><img src="https://img.shields.io/badge/TikTok-0A0A0A?style=for-the-badge&logo=tiktok&logoColor=DAFF59" /></a>
 </p>
-<h6 align="center">In God We Trust</h6>
 
-------
-Ultima edicion: 13/10/2025
+---
 
+## 🙋🏽‍♂️ Sobre mí
 
+Estudio **Tecnología en Desarrollo de Software** en el Instituto Tecnológico de Las Américas (ITLA) y soy **Técnico en Informática**. Tengo experiencia en soporte tecnológico y desarrollo web, y quiero seguir creciendo tanto en front-end como en back-end.
+
+- 🚀 Fundé **Somos Tu Negocio Web**, donde hago páginas web, catálogos digitales y soluciones de pedidos para negocios. *Tu negocio merece más que un perfil.*
+- 🌱 Ahora mismo estoy estudiando **Desarrollo Front-end** y **Diseño UX**.
+- 💬 Puedes escribirme sobre desarrollo web, proyectos en equipo o si tu negocio necesita una página.
+
+> Este es mi segundo README (el primero se borró 😅) y lo voy actualizando a medida que aprendo.
+
+## 🛠️ Tecnologías y herramientas
+
+**Desarrollo web**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Programación y bases de datos**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
+
+**Aprendiendo ahora** 📚
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JSP](https://img.shields.io/badge/JSP-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+## 📂 Proyectos
+
+| Proyecto | Descripción | Estado |
+|---|---|---|
+| [Somos Tu Negocio Web](https://tunegocioweb.fyi) | Mi emprendimiento: páginas web responsivas, catálogos digitales y soluciones de contacto y pedidos para negocios | 🟢 Activo |
+| Nathalie Nails Stetic | Página web para un cliente real, mi primer trabajo comercial | 🟢 Entregado |
+| Planificador de pensum | App web en Java (JSP + MySQL) que muestra qué materias puedes inscribir según los prerrequisitos. Proyecto en equipo del ITLA | 🟡 En desarrollo |
+| UTA (Ubica Tu Antojo) | Prototipo colaborativo para encontrar restaurantes cercanos en un mapa y recomendar opciones según tus gustos | ✅ 2025 |
+
+## 💼 Experiencia
+
+- **Pasante de Tecnología**, Dominicana de Seguros *(sep. 2024 – jun. 2025)*: instalación y configuración de software y equipos, soporte técnico, virtualización y ciberseguridad.
+
+## 📜 Certificaciones
+
+- 🏅 **IT Essentials 7.01**, Cisco Networking Academy / ITLA *(2026)*
+- 🏅 **Tester (28 horas)**, Capacítate para el Empleo *(2025)*
+- ⏳ **Desarrollador Front-end** *(en curso)*
+- ⏳ **Diseñador de Experiencia de Usuario (UX)** *(en curso)*
+
+---
+
+<p align="center"><i>de regreso a la nocheósfera 🌙</i></p>
