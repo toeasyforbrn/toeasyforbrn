@@ -10,9 +10,10 @@ Aquí voy subiendo mis proyectos y lo que aprendo en el camino.
 
 ### 💻 Tecnologías
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=js,java" height="48" alt="JavaScript y Java" />
+  &nbsp;<img src="sqlserver.svg" height="48" alt="SQL Server" />
+</p>
 
 **Aprendiendo ahora:** diseño UX/UI 🎨
 
