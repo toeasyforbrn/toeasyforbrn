@@ -6,13 +6,13 @@
 
 **Y me pueden llamar Bryan.**
 
-## 💻 Tecnologías que sé:
+## 💻 Tecnologías que uso:
 
 <p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=js,java" height="48" alt="JavaScript y Java" />
 </p>
 
-## 📚 Aprendiendo ahora:
+## Aprendiendo ahora:
 
 <p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap,react,claude" height="48" alt="Bootstrap, React y Claude" />
