@@ -12,7 +12,6 @@ Aquí voy subiendo mis proyectos y lo que aprendo en el camino.
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,java" height="48" alt="JavaScript y Java" />
-  &nbsp;<img src="sqlserver.svg" height="48" alt="SQL Server" />
 </p>
 
 **Aprendiendo ahora:** diseño UX/UI 🎨
